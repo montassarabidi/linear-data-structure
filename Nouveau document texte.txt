@@ -1,0 +1,8 @@
+const set1=[3, 1, 7, 9];
+const set2=[2, 4, 1, 9, 3];
+for (var i = 0; i < set1.length; i++) {
+  console.log(set1[i])
+  for (var j = 0; j < set2.length; j++) {
+    console.log(set2[j])
+  }
+}
